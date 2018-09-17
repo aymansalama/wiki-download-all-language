@@ -1,5 +1,10 @@
 # wiki-download-all-language
 
+Super easy way to download the main xml file of all language of wiki. 
+Just clone the repo and run the script latest_wiki_download.sh
+make sure the script is executable in your environment. 
+
+The download speed will depend on your internet speed. but it can be super fast if you have cloud service in the US> 
 
 Downloading all wikipedia
 
